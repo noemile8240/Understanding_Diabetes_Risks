@@ -173,14 +173,14 @@ Despite these limitations, the analysis demonstrates **real-world healthcare ana
 
 ## Portfolio Context
 
-This project is part of a broader analytics portfolio demonstrating:
+This project is part of a developing analytics portfolio that demonstrates:
 
-* **Healthcare risk analysis**
-* **Business intelligence storytelling**
-* **SQL-driven cohort analytics**
-* **Actionable decision support**
+* **Healthcare risk analysis and population-health insight generation**
+* **Business intelligence storytelling across multiple domains**
+* **SQL-driven cohort segmentation and exploratory analysis**
+* **Translation of data findings into actionable decision support**
 
-
+Together with a complementary **e-commerce performance analytics project**, this work showcases readiness for **Data Analyst and Business Intelligence roles** requiring both technical analysis and business-focused insight delivery.
 
 
 
