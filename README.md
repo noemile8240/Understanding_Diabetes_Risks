@@ -185,21 +185,7 @@ This project is part of a broader analytics portfolio demonstrating:
 
 
 
-![ERD](images/ERD.png)
----
 
-
-[See Project Dashboard here](https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes)
-
-
-
-
-  
-
-
-
-
-[See accompanying **Tableau dashboard** for visuals.](https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes)
 
 
 
