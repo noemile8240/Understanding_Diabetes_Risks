@@ -77,29 +77,41 @@ Importantly, elevated BMI raises diabetes likelihood even in **younger populatio
 These findings highlight BMI as a **critical preventive-care screening dimension** and support early **weight-management and metabolic monitoring interventions** to reduce long-term diabetes burden.
 <img src="images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
 
+
+Risk escalates across glucose and blood-pressure categories even without age segmentation.
 ---
 
-### 4. Multi-factor interaction drives extreme prevalence
+### 4. Combined Biomarkers Reveal the Highest-Risk Populations
 
-* **High glucose + hypertension + advanced age** produces diabetes prevalence exceeding **85%**
-* Demonstrates the importance of **layered screening logic rather than single-metric thresholds**
+* When glucose level, blood pressure, and age are evaluated together, diabetes prevalence rises dramatically—demonstrating that multi-factor interaction, rather than any single biomarker, drives the most clinically significant risk.
+
+* Among patients with diabetic-range glucose (≥126 mg/dL) and Stage-1 hypertension, adults aged 70 and older exhibit diabetes prevalence approaching 85–90%, representing the highest-risk cohort identified in the analysis. Even in the presence of normal blood pressure, diabetic-range glucose alone pushes prevalence above 50% across most age groups, confirming glucose as the dominant baseline driver while highlighting the amplifying effect of hypertension and aging.
+
+* These findings reinforce the need for integrated risk-screening frameworks that evaluate combinations of metabolic indicators, enabling earlier identification of high-risk patients, more targeted preventive intervention, and improved allocation of clinical resources within population-health programs.
+
+Highest diabetes prevalence occurs in older adults with diabetic glucose and Stage-1 hypertension.  
+<img src="images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="800"/> 
+
+
+Risk escalates across glucose and blood-pressure categories even without age segmentation.
+<img src="images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
+
 
 ---
 
 ## Recommendations
 
-This analysis supports several **data-driven clinical strategies**:
+This analysis supports several **data-driven clinical and population-health strategies** aimed at improving early detection and reducing long-term diabetes burden.
 
-* Prioritize screening for patients with **glucose >120 mg/dL**
-* Target preventive outreach to **BMI ≥30**, especially in older adults
-* Implement **multi-factor risk flags** combining glucose, BMI, and blood pressure
-* Focus early-intervention resources on **patients aged 60+ with ≥2 elevated biomarkers**
+### Targeted Screening & Risk Identification
 
-These actions could enable:
+* Prioritize screening for individuals with **glucose levels exceeding 120 mg/dL**, where diabetes prevalence increases sharply.
+* Expand preventive outreach to patients with **BMI ≥30**, particularly within **older age groups**, where metabolic risk compounds significantly.
+* Implement **multi-factor risk flagging** that evaluates glucose, BMI, and blood pressure together to identify patients most likely to benefit from early intervention.
 
-* Earlier diagnosis
-* Reduced complication risk
-* More efficient preventive-care investment
+### Preventive Resource Allocation
+
+* Focus early-intervention programs on **patients aged 60 and older** presenting **two or more elevated biomarkers**, representing the highest-risk and highest-impact population segment.
 
 ---
 
@@ -155,15 +167,10 @@ This project is part of a broader analytics portfolio demonstrating:
 
 
 
-"600"/>
 
-
-
-
-<img src="images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="600"/>
   
 
-<img src="images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="500"/> <img src="images/diabetes_by_BP-glucose.png" alt="Diabetes_By_BP_Glucose" width="500"/> 
+
 
 
 [See accompanying **Tableau dashboard** for visuals.](https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes)
