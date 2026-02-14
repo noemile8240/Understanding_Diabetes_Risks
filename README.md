@@ -1,165 +1,151 @@
 # Understanding Diabetes Risk Through Multi-Factor Analysis
 
-## Table of Contents
+## Executive Summary
 
-- [Project Background](#project-background)
-- [Data Structure & Initial Checks](#data-structure--initial-checks)
-- [Executive Summary](#executive-summary)
-- [Insights Deep Dive](#insights-deep-dive)
-  - [Glucose Thresholds](#glucose-thresholds)
-  - [Demographic Age](#demographic-age)
-  - [Biometric Risk Correlation](#biometric-risk-correlation)
-  - [Combined Risk Factors](#combined-risk-factors)
-- [Recommendations](#recommendations)
-- [Assumptions & Caveats](#assumptions--caveats)
-- [Technical Resources & Links](#technical-resources--links)
-- [Notes on Process](#technical-resources--links)
----
+This project analyzes anonymized patient health records to identify **biometric and demographic factors most strongly associated with diabetes risk**. Using **SQL for cohort analysis** and **Tableau for visual storytelling**, the study reveals how **glucose, BMI, blood pressure, and age interact to elevate diagnosis likelihood**.
 
-## Project Background
-
-Elist Health is a healthcare analytics organization focused on improving early detection of chronic conditions through data. This project analyzes health records to identify biometric indicators strongly correlated with diabetes risk. The dataset includes anonymized health and demographic information on over **9,000 women**.
-
-This project uses **SQL** and **Tableau** to:
-
-- Identify biometric variables most predictive of diabetes.
-- Uncover threshold-based risk patterns (e.g., glucose, BMI).
-- Provide actionable recommendations to guide screening strategies.
-
-Key Insight Areas:
-
-- **Glucose Thresholds**: Diabetic prevalence across glucose levels.
-- **Demographic Impact**: Age-based diabetes patterns.
-- **Biometric Correlation**: Relationships between glucose, BMI, etc.
-- **Multi-variable Interactions**: Age, BMI, and glucose combined analysis.
+Findings highlight clear **threshold-based risk patterns** and support **targeted screening strategies** that could enable earlier detection, improved preventive care, and more efficient allocation of clinical resources.
 
 ---
 
-## Data Structure & Initial Checks
-The original dataset consisted of a single table with demographic and biometric data from 9,538 individuals. To enhance clarity and facilitate analysis, the data was restructured into two logical tables during the preparation phase.
-- `patients`: PatientID, age, pregnancies, blood pressure, BMI, medication use, diabetes pedigree function, diabetes outcome.
-- `lab_results`: Glucose, HBA1c, LDL, HDL, Triglycerides, Waist & Hip Circumference, WHR.
+## Business & Clinical Objective
 
-To support segmentation and dashboard filtering, additional fields were created:
-- **Age Group**: Categorizes patients into age brackets (e.g., 20–29, 30–39) for easier comparison.
-- **BMI Category**: Underweight, Normal, Overweight, Obese.
-- **IDs**: `patientID` and `labID` for unique tracking.
+Healthcare providers and population-health teams require **data-driven methods to identify high-risk patients before diagnosis**.
 
-**SQL was used for**:
+This analysis was designed to:
 
-- Data cleansing
-- Calculating summary metrics
-- Segmenting by risk factors
-- Comparing diabetic vs non-diabetic groups
+* Detect **biometric thresholds** linked to diabetes prevalence
+* Quantify **risk escalation across age groups**
+* Evaluate **compounding multi-factor risk conditions**
+* Provide **actionable screening and intervention guidance**
 
-**Tableau** added:
+Primary stakeholders include:
 
-- Threshold-based visualizations
-- Interactive filtering
-- Storytelling of health indicator trends
+* Preventive care and screening programs
+* Population-health analytics teams
+* Clinical quality and risk-management leadership
+
+---
+
+## Dataset & Methodology
+
+**Dataset:** Public anonymized diabetes health dataset (~9,500 patients)
+**Tools:** SQL, MySQL, Tableau
+**Approach:**
+
+* Data cleaning and cohort segmentation in SQL
+* Risk-factor threshold analysis
+* Comparative prevalence measurement
+* Interactive visualization and narrative design in Tableau
+
+---
+
+## Key Insights
+
+### 1. Glucose is the strongest standalone predictor
+
+* Diabetes prevalence rises sharply above **120 mg/dL**
+* Patients with **≥126 mg/dL** show the highest diagnosis rates across all ages
+
+### 2. Age significantly amplifies baseline risk
+
+* Diabetes prevalence increases steadily after **age 40**
+* Even with normal vitals, risk rises meaningfully in **60+ populations**
+
+### 3. BMI compounds metabolic risk
+
+* **BMI ≥30** strongly correlates with diabetes prevalence
+* Severe obesity combined with older age produces the **highest risk segments**
+
+### 4. Multi-factor interaction drives extreme prevalence
+
+* **High glucose + hypertension + advanced age** produces diabetes prevalence exceeding **85%**
+* Demonstrates the importance of **layered screening logic rather than single-metric thresholds**
+
+---
+
+## Recommendations
+
+This analysis supports several **data-driven clinical strategies**:
+
+* Prioritize screening for patients with **glucose >120 mg/dL**
+* Target preventive outreach to **BMI ≥30**, especially in older adults
+* Implement **multi-factor risk flags** combining glucose, BMI, and blood pressure
+* Focus early-intervention resources on **patients aged 60+ with ≥2 elevated biomarkers**
+
+These actions could enable:
+
+* Earlier diagnosis
+* Reduced complication risk
+* More efficient preventive-care investment
+
+---
+
+## Tableau Dashboard
+
+Interactive visualization of cohort segmentation, prevalence trends, and multi-factor risk interaction:
+
+**View Dashboard:**
+https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes
+
+---
+
+## Technical Assets
+
+* SQL cleaning & exploration scripts
+* Cohort segmentation and prevalence queries
+* Tableau risk-analysis dashboard
+* Supporting datasets and documentation
+
+(All resources available within this repository.)
+
+---
+
+## Assumptions & Limitations
+
+* Dataset is anonymized and simulated for analytical learning
+* Cross-sectional snapshot rather than longitudinal tracking
+* Certain biomarkers excluded due to data quality constraints
+
+Despite these limitations, the analysis demonstrates **real-world healthcare analytics methodology and decision-support thinking**.
+
+---
+
+## Portfolio Context
+
+This project is part of a broader analytics portfolio demonstrating:
+
+* **Healthcare risk analysis**
+* **Business intelligence storytelling**
+* **SQL-driven cohort analytics**
+* **Actionable decision support**
+
+
+
+
+
 
 ![ERD](images/ERD.png)
 ---
-
-## Executive Summary
-
-### Overview
-
-The analysis revealed strong correlations between diabetes risk and factors like:
-
-- **High glucose levels**
-- **Elevated BMI**
-- **Age over 40**
-
-Combined effects increase risk significantly. These insights can guide:
-
-- Early detection efforts
-- High-risk patient screening
-- Patient education programs
-
-### Key Findings
-
-- **Glucose >120 mg/dL** → sharp increase in diabetes rates.
-- **BMI >30 (Obese)** → higher diabetes prevalence.
-- **Age 40+** → elevated risk, especially 60–90 age group.
-- **Combined Risk**:
-  - Age 70+ with glucose ≥126 & BP ≥130 → diabetes rate >85%
-  - Severely obese (BMI ≥35) and 70+ → risk >68%
-  - Even with normal vitals, risk grows steadily with age.
 
 
 [See Project Dashboard here](https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes)
 
 
-## Insights Deep Dive
-
-### Glucose Thresholds Analysis
-
-- Glucose Levels and Diabetes Patients with glucose levels in the diabetic range (≥126 mg/dL) consistently had the highest diabetes rates, especially in older age groups. Across all ages, glucose emerged as the most directly predictive metric of diabetes status.
-- Among patients aged 70+ with glucose in the diabetic range, more than 57% had diabetes. Even within "normal" glucose ranges, risk increased steadily with age.
-- Diabetic prevalence peaks in the 90–110 range, with diabetic patients making up over 14% of the group.
 
 <img src="images/glucose-age.png" alt="Diabetes_By_Age_Glucose" width="600"/>
 
-### Demographic Age
-
-- Age as a Risk Factor Diabetes risk rises steadily with age, with notable increases in the 60–69 and 70+ groups. Even among patients with normal glucose and blood pressure, diabetes prevalence climbs from ~29% in patients in their 40s to over 39% in those aged 70+. 
-- Age alone is a meaningful flag for screening.
-- Patients aged 70+ with both diabetic glucose and high blood pressure had diabetes rates over 85%.
-- Prediabetic individuals (glucose 100–125) with normal BP still showed 25–30% diabetes prevalence in older age bands.
-
 <img src="images/diabetes-by-age-bp.png" alt="Diabetes_By_Age_BloodPressure" width="600"/>
 
-### Biometric Risk Correlation
 
-- Glucose and BMI have strong positive correlation.
-- Diabetic patients cluster in Obese and Severely Obese categories.
-- Higher BMI intensifies risk at any age level.
-- 
 <img src="images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="600"/>
   
-
-### Combined Risk Factors
-
-- **High BMI + High Glucose** = highest standalone risk.
-- **Systolic BP + Glucose** = especially risky for older adults.
-- Diabetic patients have higher average BP than non-diabetics.
-
-These highlight the compounding nature of diabetes risk factors.
 
 <img src="images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="500"/> <img src="images/diabetes_by_BP-glucose.png" alt="Diabetes_By_BP_Glucose" width="500"/> 
 
 
-## Recommendations
-
-- Screen individuals with **glucose >120 mg/dL**.
-- Target **BMI >30**, especially when paired with glucose elevation.
-- Prioritize screening in those **aged 40+**, especially 60–90.
-- Use **multi-factor flags** (glucose + BMI + BP) for risk alerts.
-- Integrate thresholds into Tableau dashboards.
-- Prioritize **60+ patients** when 2+ biomarkers are elevated.
-
 [See accompanying **Tableau dashboard** for visuals.](https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes)
 
 
----
 
-## Assumptions & Caveats
 
-- Simulated data – may not reflect full clinical diversity.
-- Insulin data excluded due to quality issues.
-- Cross-sectional data only — no longitudinal tracking.
-- Metrics represent **single-day snapshots**.
-- Visualizations rely on **grouped and aggregated** stats.
-
----
-
-## Technical Resources & Links
-
-- [SQL Queries – Data Exploration & Cleaning](https://github.com/noemile8240/Understanding_Diabetes_Risks/blob/main/sql_queries/Diabetes_clean_exploratory_scripts.sql)  
-- [SQL Queries – Summary Metrics & Segmentation](https://github.com/noemile8240/Understanding_Diabetes_Risks/blob/main/sql_queries/Diabetes_risk_analysis_scripts.sql)  
-- [Tableau Dashboard](https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes)
-- [DATASETS](https://github.com/noemile8240/Understanding_Diabetes_Risks/tree/main/data)
-- [Notes on Process](https://github.com/noemile8240/Understanding_Diabetes_Risks/blob/main/doc/notes.md)
-
----
