@@ -153,12 +153,11 @@ https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabete
 
 ## Technical Assets
 
-* SQL cleaning & exploration scripts
-* Cohort segmentation and prevalence queries
-* Tableau risk-analysis dashboard
-* Supporting datasets and documentation
-
-(All resources available within this repository.)
+* ***01_data*** *- Raw and cleaned datasets used for analysis*
+* ***02_SQL_queries*** *- Data cleaning, exploration, and risk analysis SQL*
+* ***03_images*** *- Visual outputs used in README storytelling*
+* ***04_docs*** *- Technical notes, methodology, assumptions, process*
+* ***README.md*** *- Executive case study and business insights*
 
 ---
 
