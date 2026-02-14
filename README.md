@@ -50,7 +50,7 @@ dataset was restructured into two relational tables:
 This relational structure enables **multi-factor cohort comparison**
 across age, BMI, glucose, and blood-pressure indicators.
 
-![Diabetes Dataset ERD](03_images/ERD_diabetes_schema.png)
+![Diabetes Dataset ERD](03_images/Diabetes_ERD.png)
 
 
 
