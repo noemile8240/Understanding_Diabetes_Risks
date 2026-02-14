@@ -55,10 +55,14 @@ Primary stakeholders include:
 
 ---
 
-### 2. Age significantly amplifies baseline risk
+### 2. Age and Blood Pressure Compound Diabetes Risk
 
-* Diabetes prevalence increases steadily after **age 40**
-* Even with normal vitals, risk rises meaningfully in **60+ populations**
+* Diabetes prevalence increases progressively with age, even among individuals with **normal blood pressure**, indicating that aging alone elevates baseline metabolic vulnerability.
+
+* However, the presence of **elevated or Stage-1 hypertension** significantly accelerates this trend. In adults aged **70 and older**, diabetes prevalence rises sharply—reaching levels near **90%** among those with **Stage-1 blood pressure**, representing one of the highest-risk cohorts observed in the analysis.
+
+* These findings demonstrate that **blood pressure acts as a compounding risk factor rather than an isolated predictor**, reinforcing the importance of **age-stratified hypertension monitoring** and **integrated metabolic screening** in older populations.
+<img src="images/diabetes-by-age-bp.png" alt="Diabetes_By_Age_BloodPressure" width="800"/>
 
 ### 3. BMI compounds metabolic risk
 
@@ -143,7 +147,7 @@ This project is part of a broader analytics portfolio demonstrating:
 
 "600"/>
 
-<img src="images/diabetes-by-age-bp.png" alt="Diabetes_By_Age_BloodPressure" width="600"/>
+
 
 
 <img src="images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="600"/>
