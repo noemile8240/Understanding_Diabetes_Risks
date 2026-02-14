@@ -68,7 +68,7 @@ across age, BMI, glucose, and blood-pressure indicators.
 * Importantly, the upward age-related trend persists even among individuals with **normal or prediabetic glucose levels**, indicating that **baseline diabetes susceptibility increases with age independent of glucose classification**.
 
 * These findings reinforce glucose testing as the **most critical early screening signal**, while also highlighting the need for **age-adjusted preventive monitoring** in older populations.
-<img src="images/glucose-age.png" alt="Diabetes_By_Age_Glucose" width="800"/>
+<img src="03_images/glucose-age.png" alt="Diabetes_By_Age_Glucose" width="800"/>
 
 ---
 
@@ -79,7 +79,7 @@ across age, BMI, glucose, and blood-pressure indicators.
 * However, the presence of **elevated or Stage-1 hypertension** significantly accelerates this trend. In adults aged **70 and older**, diabetes prevalence rises sharply—reaching levels near **90%** among those with **Stage-1 blood pressure**, representing one of the highest-risk cohorts observed in the analysis.
 
 * These findings demonstrate that **blood pressure acts as a compounding risk factor rather than an isolated predictor**, reinforcing the importance of **age-stratified hypertension monitoring** and **integrated metabolic screening** in older populations.
-<img src="images/diabetes-by-age-bp.png" alt="Diabetes_By_Age_BloodPressure" width="800"/>
+<img src="03_images/diabetes-by-age-bp.png" alt="Diabetes_By_Age_BloodPressure" width="800"/>
 
 ---
 
@@ -92,7 +92,7 @@ Individuals classified as **Severely Obese (BMI ≥35)** exhibit the highest pre
 Importantly, elevated BMI raises diabetes likelihood even in **younger populations**, indicating that excess body mass functions as a **long-term metabolic stressor rather than an age-dependent trigger**. As age increases, this baseline risk compounds further, producing sharply higher prevalence in older obese cohorts.
 
 These findings highlight BMI as a **critical preventive-care screening dimension** and support early **weight-management and metabolic monitoring interventions** to reduce long-term diabetes burden.
-<img src="images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
+<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
 
 
 Risk escalates across glucose and blood-pressure categories even without age segmentation.
@@ -107,11 +107,11 @@ Risk escalates across glucose and blood-pressure categories even without age seg
 * These findings reinforce the need for integrated risk-screening frameworks that evaluate combinations of metabolic indicators, enabling earlier identification of high-risk patients, more targeted preventive intervention, and improved allocation of clinical resources within population-health programs.
 
 Highest diabetes prevalence occurs in older adults with diabetic glucose and Stage-1 hypertension.  
-<img src="images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="800"/> 
+<img src="03_images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="800"/> 
 
 
 Risk escalates across glucose and blood-pressure categories even without age segmentation.
-<img src="images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
+<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
 
 
 ---
