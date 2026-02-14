@@ -31,14 +31,31 @@ Primary stakeholders include:
 
 **Dataset:** Public anonymized diabetes health dataset (~9,500 patients)
 **Tools:** SQL, MySQL, Tableau
-**Approach:**
 
-* Data cleaning and cohort segmentation in SQL
-* Risk-factor threshold analysis
-* Comparative prevalence measurement
-* Interactive visualization and narrative design in Tableau
+### Analytical Approach
+
+* Data cleaning and cohort segmentation performed in SQL
+* Threshold-based risk factor analysis across biometric indicators
+* Comparative diabetes prevalence measurement between patient groups
+* Interactive visualization and narrative design developed in Tableau
+
+### Data Model Overview
+
+To support segmented risk analysis and efficient querying, the original
+dataset was restructured into two relational tables:
+
+* **patients** — demographic attributes, medical history, and diagnosis outcome
+* **lab_results** — biometric measurements including glucose, lipids, and body metrics
+
+This relational structure enables **multi-factor cohort comparison**
+across age, BMI, glucose, and blood-pressure indicators.
+
+![Diabetes Dataset ERD](03_images/ERD_diabetes_schema.png)
+
+
 
 ---
+
 
 ## Key Insights
 
