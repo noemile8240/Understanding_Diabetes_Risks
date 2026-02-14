@@ -113,6 +113,16 @@ This analysis supports several **data-driven clinical and population-health stra
 
 * Focus early-intervention programs on **patients aged 60 and older** presenting **two or more elevated biomarkers**, representing the highest-risk and highest-impact population segment.
 
+### Expected Clinical Impact
+
+Adoption of these strategies could enable:
+
+* **Earlier diagnosis and treatment initiation**
+* **Reduction in diabetes-related complications**
+* **More efficient allocation of preventive-care resources** across high-risk populations
+
+Together, these actions demonstrate how **integrated biometric analytics** can support **proactive, data-driven population-health management** rather than reactive disease treatment.
+
 ---
 
 ## Tableau Dashboard
