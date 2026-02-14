@@ -64,10 +64,20 @@ Primary stakeholders include:
 * These findings demonstrate that **blood pressure acts as a compounding risk factor rather than an isolated predictor**, reinforcing the importance of **age-stratified hypertension monitoring** and **integrated metabolic screening** in older populations.
 <img src="images/diabetes-by-age-bp.png" alt="Diabetes_By_Age_BloodPressure" width="800"/>
 
-### 3. BMI compounds metabolic risk
+---
 
-* **BMI ≥30** strongly correlates with diabetes prevalence
-* Severe obesity combined with older age produces the **highest risk segments**
+### 3. BMI as a Persistent, Age-Amplified Risk Factor
+
+Diabetes prevalence increases progressively across **BMI categories**, demonstrating a clear dose-response relationship between body mass and metabolic disease risk.
+
+Individuals classified as **Severely Obese (BMI ≥35)** exhibit the highest prevalence across all age groups, with rates approaching **68% among adults aged 70 and older**. This represents one of the strongest standalone risk signals identified in the analysis.
+
+Importantly, elevated BMI raises diabetes likelihood even in **younger populations**, indicating that excess body mass functions as a **long-term metabolic stressor rather than an age-dependent trigger**. As age increases, this baseline risk compounds further, producing sharply higher prevalence in older obese cohorts.
+
+These findings highlight BMI as a **critical preventive-care screening dimension** and support early **weight-management and metabolic monitoring interventions** to reduce long-term diabetes burden.
+<img src="images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
+
+---
 
 ### 4. Multi-factor interaction drives extreme prevalence
 
