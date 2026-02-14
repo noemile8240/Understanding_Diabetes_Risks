@@ -42,10 +42,18 @@ Primary stakeholders include:
 
 ## Key Insights
 
-### 1. Glucose is the strongest standalone predictor
+### 1. Glucose as the Primary Risk Driver
 
-* Diabetes prevalence rises sharply above **120 mg/dL**
-* Patients with **≥126 mg/dL** show the highest diagnosis rates across all ages
+* Diabetes prevalence rises sharply once glucose levels enter the **diabetic range (≥126 mg/dL)**, making glucose the **strongest standalone predictor** of diagnosis across all age groups.
+
+* Within this range, prevalence increases from approximately **48% in adults aged 40–49** to **over 50% among patients aged 70+**, demonstrating that **age compounds metabolic risk even when glucose levels are already elevated**.
+
+* Importantly, the upward age-related trend persists even among individuals with **normal or prediabetic glucose levels**, indicating that **baseline diabetes susceptibility increases with age independent of glucose classification**.
+
+* These findings reinforce glucose testing as the **most critical early screening signal**, while also highlighting the need for **age-adjusted preventive monitoring** in older populations.
+<img src="images/glucose-age.png" alt="Diabetes_By_Age_Glucose" width="800"/>
+
+---
 
 ### 2. Age significantly amplifies baseline risk
 
@@ -133,7 +141,7 @@ This project is part of a broader analytics portfolio demonstrating:
 
 
 
-<img src="images/glucose-age.png" alt="Diabetes_By_Age_Glucose" width="600"/>
+"600"/>
 
 <img src="images/diabetes-by-age-bp.png" alt="Diabetes_By_Age_BloodPressure" width="600"/>
 
