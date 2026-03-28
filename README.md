@@ -112,6 +112,34 @@ Highest diabetes prevalence occurs in older adults with diabetic glucose and Sta
 - Analysis shows correlation, not causation  
 
 
+# Assumptions & Caveats
+- Refund data includes dates outside the primary analysis period (2019–2022), which may impact trend interpretation
+- Data is assumed to be complete and representative of all transactions
+- Regional inconsistencies may reflect reporting delays or data quality limitations rather than true performance differences
+
+Data quality issues were reviewed prior to analysis. Only low-risk, clearly resolvable issues were corrected.<br>
+Actions included:
+- Standardizing inconsistent product names  
+- Normalizing date formats  
+- Replacing blank marketing channels with “Unknown”  
+- Correcting region values using country codes
+- Records lacking reliable source validation (e.g., zero prices, missing currency, anomalous timestamps) were **retained** due to minimal aggregate impact.
+
+***Full issue logs, resolutions, and sanitized stakeholder request documentation are included in the repository to demonstrate traceability from business questions to analytical deliverables.***  
+
+
+# Tools & Methods
+
+- **SQL:** data cleaning, joins, aggregations, KPI analysis  
+- **Tableau:** executive dashboard design and visualization  
+- **Data Modeling:** relational schema with ERD validation  
+- **Business Analysis:** revenue trends, AOV, loyalty impact, refund risk  
+
+
+
+# Repository Contents
+
+* [noemile8240/ Pulse_Technology /01_business_request/ — Business_Request_Pulse.md](01_business_request)
 
 
 
