@@ -53,7 +53,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 * Importantly, elevated BMI raises diabetes likelihood even in **younger populations**, indicating that excess body mass functions as a **long-term metabolic stressor rather than an age-dependent trigger**. As age increases, this baseline risk compounds further, producing sharply higher prevalence in older obese cohorts.
 
 * These findings highlight BMI as a **critical preventive-care screening dimension** and support early **weight-management and metabolic monitoring interventions** to reduce long-term diabetes burden.
-<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="650"/>
+<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_BMI_age" width="650"/>
 
 
 ### Age Trends
