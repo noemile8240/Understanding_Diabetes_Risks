@@ -105,6 +105,9 @@ Highest diabetes prevalence occurs in older adults with diabetic glucose and Sta
 - BMI and age significantly contribute to increased risk  
 - Early detection using combined factors can improve outcomes  
 
+**View Dashboard:**
+https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes
+
 
 ## Assumptions & Caveats
 
@@ -121,10 +124,6 @@ Despite these limitations, the analysis demonstrates **real-world healthcare ana
 - **Tableau:** executive dashboard design and visualization  
 - **Data Modeling:** relational schema with ERD validation  
 - **Dataset:** Public anonymized diabetes health dataset (~9,500 patients)
-
-
-**View Dashboard:**
-https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes
 
 ## Repository Contents
 
