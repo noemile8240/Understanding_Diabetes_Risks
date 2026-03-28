@@ -105,7 +105,11 @@ Highest diabetes prevalence occurs in older adults with diabetic glucose and Sta
 - BMI and age significantly contribute to increased risk  
 - Early detection using combined factors can improve outcomes  
 
+## Assumptions & Caveats
 
+- Dataset may not represent all populations equally  
+- Some variables may contain missing or inconsistent values  
+- Analysis shows correlation, not causation  
 
 
 
