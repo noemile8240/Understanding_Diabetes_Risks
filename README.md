@@ -146,6 +146,21 @@ https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabete
 * ***04_docs*** *- Technical notes, methodology, assumptions, process*
 * ***README.md*** *- Executive case study and business insights*
 
+
+* [noemile8240/ Understanding_Diabetes/01_data/ — Raw CSV data files](01_business_request)
+  
+* [noemile8240/ Pulse_Technology /02_data/Excel_files — Pulse Raw data file and Issue Log](02_data/Excel_files)
+  
+* [noemile8240/ Pulse_Technology /03_sql/ — Data cleaning & analysis queries](03_sql)
+
+* [noemile8240/ Pulse_Technology /04_visual_assets/images — Graphs and visual assets](04_visual_assets/images)
+
+* [noemile8240/ Pulse_Technology /05_insights — executive_summary and business recommendations](05_insights)
+  
+* [noemile8240/ Pulse_Technology README.md — Project documentation](README.md)
+
+
+
 ---
 
 ## Assumptions & Limitations
