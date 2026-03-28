@@ -155,7 +155,7 @@ https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabete
 
 * [noemile8240/ Understanding_Diabetes /04_project_docs — Technical notes, methodology, assumptions, process](04_project_docs)
  
-* [noemile8240/ Understanding_Diabetes README.md — Project documentation](README.md)
+* [noemile8240/ README.md — Project documentation](README.md)
 
 
 
