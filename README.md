@@ -11,11 +11,15 @@ The objective is to identify patterns and relationships between variables such a
 
 ## Executive Summary
 
-This project analyzes anonymized patient health records to identify **biometric and demographic factors most strongly associated with diabetes risk**. Using **SQL for cohort analysis** and **Tableau for visual storytelling**, the study reveals how **glucose, BMI, blood pressure, and age interact to elevate diagnosis likelihood**.
+This analysis examines health and demographic data to identify key factors associated with diabetes risk.
 
-Findings highlight clear **threshold-based risk patterns** and support **targeted screening strategies** that could enable earlier detection, improved preventive care, and more efficient allocation of clinical resources.
+Key findings:
+- Glucose levels are the strongest indicator of diabetes risk  
+- BMI and age show clear positive relationships with increased risk  
+- Certain combinations of risk factors significantly increase likelihood of diabetes  
+- Some variables (e.g., blood pressure) show weaker or inconsistent relationships  
 
----
+These insights highlight opportunities for earlier identification of high-risk individuals and more targeted prevention strategies.
 
 ## Business & Clinical Objective
 
