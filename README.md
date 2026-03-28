@@ -21,6 +21,15 @@ Key findings:
 
 These insights highlight opportunities for earlier identification of high-risk individuals and more targeted prevention strategies.
 
+## Data Structure (ERD)
+
+<img src="INSERT_ERD_IMAGE" width="650"/>
+
+
+
+
+
+
 ## Business & Clinical Objective
 
 Healthcare providers and population-health teams require **data-driven methods to identify high-risk patients before diagnosis**.
