@@ -121,31 +121,12 @@ Despite these limitations, the analysis demonstrates **real-world healthcare ana
 - **Data Modeling:** relational schema with ERD validation  
 - **Dataset:** Public anonymized diabetes health dataset (~9,500 patients)
 
-## Repository Contents
-
-* [noemile8240/ Pulse_Technology /01_business_request/ — Business_Request_Pulse.md](01_business_request)
-
-
-
-
-Risk escalates across glucose and blood-pressure categories even without age segmentation.
-<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
-
-
 
 **View Dashboard:**
 https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes
 
 ---
-
-## Technical Assets
-
-* ***01_data*** *- Raw and cleaned datasets used for analysis*
-* ***02_SQL_queries*** *- Data cleaning, exploration, and risk analysis SQL*
-* ***03_images*** *- Visual outputs used in README storytelling*
-* ***04_docs*** *- Technical notes, methodology, assumptions, process*
-* ***README.md*** *- Executive case study and business insights*
-
+## Repository Contents
 
 * [noemile8240/ Understanding_Diabetes/01_data/ — Raw and cleaned datasets used for analysis](01_data)
   
@@ -155,32 +136,15 @@ https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabete
 
 * [noemile8240/ Understanding_Diabetes /04_project_docs — Technical notes, methodology, assumptions, process](04_project_docs)
  
-* [noemile8240/ README.md — Project documentation](README.md)
+* [noemile8240/ README.md — Executive case study and business insights](README.md)
 
 
 
 ---
+Risk escalates across glucose and blood-pressure categories even without age segmentation.
+<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
 
-## Assumptions & Limitations
 
-* Dataset is anonymized and simulated for analytical learning
-* Cross-sectional snapshot rather than longitudinal tracking
-* Certain biomarkers excluded due to data quality constraints
-
-Despite these limitations, the analysis demonstrates **real-world healthcare analytics methodology and decision-support thinking**.
-
----
-
-## Portfolio Context
-
-This project is part of a developing analytics portfolio that demonstrates:
-
-* **Healthcare risk analysis and population-health insight generation**
-* **Business intelligence storytelling across multiple domains**
-* **SQL-driven cohort segmentation and exploratory analysis**
-* **Translation of data findings into actionable decision support**
-
-Together with a complementary **e-commerce performance analytics project**, this work showcases readiness for **Data Analyst and Business Intelligence roles** requiring both technical analysis and business-focused insight delivery.
 
 
 
