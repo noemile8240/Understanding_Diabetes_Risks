@@ -29,7 +29,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 ### Glucose Impact
 
-**📌 Headline Insight:** Glucose levels are the strongest predictor of diabetes risk, with significantly higher values observed in positive cases.
+** Insight:** Glucose levels are the strongest predictor of diabetes risk, with significantly higher values observed in positive cases.
 
 * Diabetes prevalence rises sharply once glucose levels enter the **diabetic range (≥126 mg/dL)**, making glucose the **strongest standalone predictor** of diagnosis across all age groups.
 
@@ -43,7 +43,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 ### BMI & Obesity
 
-**📌 Headline Insight:** Higher BMI is strongly associated with increased diabetes risk, indicating obesity as a key contributing factor.
+** Insight:** Higher BMI is strongly associated with increased diabetes risk, indicating obesity as a key contributing factor.
 
 * Diabetes prevalence increases progressively across **BMI categories**, demonstrating a clear dose-response relationship between body mass and metabolic disease risk.
 
@@ -52,8 +52,34 @@ These insights highlight opportunities for earlier identification of high-risk i
 * Importantly, elevated BMI raises diabetes likelihood even in **younger populations**, indicating that excess body mass functions as a **long-term metabolic stressor rather than an age-dependent trigger**. As age increases, this baseline risk compounds further, producing sharply higher prevalence in older obese cohorts.
 
 * These findings highlight BMI as a **critical preventive-care screening dimension** and support early **weight-management and metabolic monitoring interventions** to reduce long-term diabetes burden.
-<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
+<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="650"/>
 
+
+### Age Trends
+
+** Insight:** Diabetes risk increases with age, with higher prevalence observed in older populations.
+
+* Diabetes prevalence increases progressively across **BMI categories**, demonstrating a clear dose-response relationship between body mass and metabolic disease risk.
+
+* Individuals classified as **Severely Obese (BMI ≥35)** exhibit the highest prevalence across all age groups, with rates approaching **68% among adults aged 70 and older**. This represents one of the strongest standalone risk signals identified in the analysis.
+
+* Importantly, elevated BMI raises diabetes likelihood even in **younger populations**, indicating that excess body mass functions as a **long-term metabolic stressor rather than an age-dependent trigger**. As age increases, this baseline risk compounds further, producing sharply higher prevalence in older obese cohorts.
+
+* These findings highlight BMI as a **critical preventive-care screening dimension** and support early **weight-management and metabolic monitoring interventions** to reduce long-term diabetes burden.
+<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="650"/>
+
+### Blood Pressure
+
+**Insight:** Blood pressure shows a weaker and less consistent relationship with diabetes risk.
+
+* When glucose level, blood pressure, and age are evaluated together, diabetes prevalence rises dramatically—demonstrating that multi-factor interaction, rather than any single biomarker, drives the most clinically significant risk.
+
+* Among patients with diabetic-range glucose (≥126 mg/dL) and Stage-1 hypertension, adults aged 70 and older exhibit diabetes prevalence approaching 85–90%, representing the highest-risk cohort identified in the analysis. Even in the presence of normal blood pressure, diabetic-range glucose alone pushes prevalence above 50% across most age groups, confirming glucose as the dominant baseline driver while highlighting the amplifying effect of hypertension and aging.
+
+* These findings reinforce the need for integrated risk-screening frameworks that evaluate combinations of metabolic indicators, enabling earlier identification of high-risk patients, more targeted preventive intervention, and improved allocation of clinical resources within population-health programs.
+
+Highest diabetes prevalence occurs in older adults with diabetic glucose and Stage-1 hypertension.  
+<img src="03_images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="650"/> 
 
 
 
