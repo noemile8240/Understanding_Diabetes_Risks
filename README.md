@@ -151,12 +151,10 @@ https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabete
   
 * [noemile8240/ Understanding_Diabetes/02_SQL_queries/ Data cleaning, exploration, and risk analysis SQL ](02_SQL_queries)
   
-* [noemile8240/ Pulse_Technology /03_sql/ — Data cleaning & analysis queries](03_sql)
+* [noemile8240/ Understanding_Diabetes /03_images/ — Visual outputs used in README storytelling](03_images)
 
-* [noemile8240/ Pulse_Technology /04_visual_assets/images — Graphs and visual assets](04_visual_assets/images)
-
-* [noemile8240/ Pulse_Technology /05_insights — executive_summary and business recommendations](05_insights)
-  
+* [noemile8240/ Understanding_Diabetes /04_project_docs — Technical notes, methodology, assumptions, process](04_project_docs)
+ 
 * [noemile8240/ Pulse_Technology README.md — Project documentation](README.md)
 
 
