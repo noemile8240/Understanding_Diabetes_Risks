@@ -114,24 +114,17 @@ Highest diabetes prevalence occurs in older adults with diabetic glucose and Sta
 
 Despite these limitations, the analysis demonstrates **real-world healthcare analytics methodology and decision-support thinking**.
 
-# Tools & Methods
+## Tools & Methods
 
 - **SQL:** joins, aggregations, KPI analysis  
 - **Tableau:** executive dashboard design and visualization  
 - **Data Modeling:** relational schema with ERD validation  
+- **Dataset:** Public anonymized diabetes health dataset (~9,500 patients)
 
-# Repository Contents
+## Repository Contents
 
 * [noemile8240/ Pulse_Technology /01_business_request/ — Business_Request_Pulse.md](01_business_request)
 
-
-
-## Dataset & Methodology
-
-**Dataset:** Public anonymized diabetes health dataset (~9,500 patients)
-**Tools:** SQL, MySQL, Tableau
-
-### Data Model Overview
 
 
 
@@ -139,22 +132,6 @@ Risk escalates across glucose and blood-pressure categories even without age seg
 <img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
 
 
----
-
-## Recommendations
-
-This analysis supports several **data-driven clinical and population-health strategies** aimed at improving early detection and reducing long-term diabetes burden.
-
-### Targeted Screening & Risk Identification
-
-* Prioritize screening for individuals with **glucose levels exceeding 120 mg/dL**, where diabetes prevalence increases sharply.
-* Expand preventive outreach to patients with **BMI ≥30**, particularly within **older age groups**, where metabolic risk compounds significantly.
-* Implement **multi-factor risk flagging** that evaluates glucose, BMI, and blood pressure together to identify patients most likely to benefit from early intervention.
-
-
-## Tableau Dashboard
-
-Interactive visualization of cohort segmentation, prevalence trends, and multi-factor risk interaction:
 
 **View Dashboard:**
 https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes
