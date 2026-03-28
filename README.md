@@ -41,6 +41,19 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 <img src="03_images/glucose-age.png" alt="Diabetes_By_Age_Glucose" width="650"/>
 
+### BMI & Obesity
+
+**📌 Headline Insight:** Higher BMI is strongly associated with increased diabetes risk, indicating obesity as a key contributing factor.
+
+* Diabetes prevalence increases progressively across **BMI categories**, demonstrating a clear dose-response relationship between body mass and metabolic disease risk.
+
+* Individuals classified as **Severely Obese (BMI ≥35)** exhibit the highest prevalence across all age groups, with rates approaching **68% among adults aged 70 and older**. This represents one of the strongest standalone risk signals identified in the analysis.
+
+* Importantly, elevated BMI raises diabetes likelihood even in **younger populations**, indicating that excess body mass functions as a **long-term metabolic stressor rather than an age-dependent trigger**. As age increases, this baseline risk compounds further, producing sharply higher prevalence in older obese cohorts.
+
+* These findings highlight BMI as a **critical preventive-care screening dimension** and support early **weight-management and metabolic monitoring interventions** to reduce long-term diabetes burden.
+<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
+
 
 
 
