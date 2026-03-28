@@ -11,6 +11,7 @@ The objective is to identify patterns and relationships between variables such a
 
 ## Executive Summary
 
+<img src="03_images/Diabetes_Dashboard.png" width="650"/>
 This analysis examines health and demographic data to identify key factors associated with diabetes risk.
 
 Key findings:
