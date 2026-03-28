@@ -147,9 +147,9 @@ https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabete
 * ***README.md*** *- Executive case study and business insights*
 
 
-* [noemile8240/ Understanding_Diabetes/01_data/ — Raw CSV data files](01_data)
+* [noemile8240/ Understanding_Diabetes/01_data/ — Raw and cleaned datasets used for analysis](01_data)
   
-* [noemile8240/ Pulse_Technology /02_data/Excel_files — Pulse Raw data file and Issue Log](02_data/Excel_files)
+* [noemile8240/ Understanding_Diabetes/02_SQL_queries/ Data cleaning, exploration, and risk analysis SQL ](02_SQL_queries)
   
 * [noemile8240/ Pulse_Technology /03_sql/ — Data cleaning & analysis queries](03_sql)
 
