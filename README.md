@@ -140,10 +140,6 @@ https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabete
 
 
 
----
-Risk escalates across glucose and blood-pressure categories even without age segmentation.
-<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="800"/>
-
 
 
 
