@@ -23,7 +23,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 ## Data Structure (ERD)
 
-<img src="INSERT_ERD_IMAGE" width="650"/>
+<img src="03_images/Diabetes_ERD.png" width="650"/>
 
 
 
