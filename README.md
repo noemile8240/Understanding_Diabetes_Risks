@@ -99,11 +99,12 @@ Highest diabetes prevalence occurs in older adults with diabetic glucose and Sta
 - Focus awareness campaigns on high-risk demographics  
 - Encourage early screening and preventive care
 
-## Key Takeaways
+### Key Takeaways
 
 - Glucose is the strongest indicator of diabetes risk  
 - BMI and age significantly contribute to increased risk  
 - Early detection using combined factors can improve outcomes  
+
 
 ## Assumptions & Caveats
 
@@ -125,7 +126,6 @@ Despite these limitations, the analysis demonstrates **real-world healthcare ana
 **View Dashboard:**
 https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabetesRisk/DiabetesRiskAnalysis?publish=yes
 
----
 ## Repository Contents
 
 * [noemile8240/ Understanding_Diabetes/01_data/ — Raw and cleaned datasets used for analysis](01_data)
