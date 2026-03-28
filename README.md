@@ -147,7 +147,7 @@ https://public.tableau.com/app/profile/noemi.vargas7800/viz/UnderstandingDiabete
 * ***README.md*** *- Executive case study and business insights*
 
 
-* [noemile8240/ Understanding_Diabetes/01_data/ — Raw CSV data files](01_business_request)
+* [noemile8240/ Understanding_Diabetes/01_data/ — Raw CSV data files](01_data)
   
 * [noemile8240/ Pulse_Technology /02_data/Excel_files — Pulse Raw data file and Issue Log](02_data/Excel_files)
   
