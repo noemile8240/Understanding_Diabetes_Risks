@@ -81,27 +81,35 @@ These insights highlight opportunities for earlier identification of high-risk i
 Highest diabetes prevalence occurs in older adults with diabetic glucose and Stage-1 hypertension.  
 <img src="03_images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="650"/> 
 
+## Recommendations
+
+### Healthcare Providers
+- Prioritize glucose monitoring as a primary screening tool  
+- Use combined risk factors (BMI, age, glucose) for early detection  
+
+### Preventive Care Teams
+- Develop targeted intervention programs for high-BMI populations  
+- Promote lifestyle changes to reduce obesity-related risk  
+
+### Data & Analytics Teams
+- Build predictive models using key variables to identify high-risk patients  
+- Improve data collection for additional risk factors  
+
+### Public Health Initiatives
+- Focus awareness campaigns on high-risk demographics  
+- Encourage early screening and preventive care
+
+## Key Takeaways
+
+- Glucose is the strongest indicator of diabetes risk  
+- BMI and age significantly contribute to increased risk  
+- Early detection using combined factors can improve outcomes  
 
 
 
-## Business & Clinical Objective
 
-Healthcare providers and population-health teams require **data-driven methods to identify high-risk patients before diagnosis**.
 
-This analysis was designed to:
 
-* Detect **biometric thresholds** linked to diabetes prevalence
-* Quantify **risk escalation across age groups**
-* Evaluate **compounding multi-factor risk conditions**
-* Provide **actionable screening and intervention guidance**
-
-Primary stakeholders include:
-
-* Preventive care and screening programs
-* Population-health analytics teams
-* Clinical quality and risk-management leadership
-
----
 
 ## Dataset & Methodology
 
@@ -127,25 +135,6 @@ This relational structure enables **multi-factor cohort comparison**
 across age, BMI, glucose, and blood-pressure indicators.
 
 ![Diabetes Dataset ERD](03_images/Diabetes_ERD.png)
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Key Insights
 
