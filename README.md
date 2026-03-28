@@ -1,5 +1,14 @@
 # Understanding Diabetes Risk Through Multi-Factor Analysis
 
+## Project Background
+
+This project analyzes a healthcare dataset containing patient demographic and clinical measurements to better understand the key factors associated with diabetes risk.
+
+The objective is to identify patterns and relationships between variables such as glucose, BMI, age, and blood pressure, and determine which factors most strongly contribute to diabetes outcomes.
+
+**Key Metrics:** Diabetes Outcome (0/1), Glucose, BMI, Age, Blood Pressure  
+**Key Dimensions:** Patient demographics, clinical measurements, and health indicators
+
 ## Executive Summary
 
 This project analyzes anonymized patient health records to identify **biometric and demographic factors most strongly associated with diabetes risk**. Using **SQL for cohort analysis** and **Tableau for visual storytelling**, the study reveals how **glucose, BMI, blood pressure, and age interact to elevate diagnosis likelihood**.
