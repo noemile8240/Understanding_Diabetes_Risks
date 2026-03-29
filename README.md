@@ -32,7 +32,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 <img src="03_images/glucose-age.png" alt="Diabetes_By_Age_Glucose" width="650"/>
 
-** Insight:** Glucose levels are the strongest predictor of diabetes risk, with significantly higher values observed in positive cases.
+**Key Insight:** Glucose levels are the strongest predictor of diabetes risk, with significantly higher values observed in positive cases.
 
 * Diabetes prevalence rises sharply once glucose levels enter the **diabetic range (≥126 mg/dL)**, making glucose the **strongest standalone predictor** of diagnosis across all age groups.
 
@@ -48,7 +48,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 <img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_BMI_age" width="650"/>
 
-** Insight:** Higher BMI is strongly associated with increased diabetes risk, indicating obesity as a key contributing factor.
+**Key Insight:** Higher BMI is strongly associated with increased diabetes risk, indicating obesity as a key contributing factor.
 
 * Diabetes prevalence increases progressively across **BMI categories**, demonstrating a clear dose-response relationship between body mass and metabolic disease risk.
 
@@ -62,9 +62,9 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 ### Age Trends
 
-<img src="03_images/diabetes_bp-age-glucose.png.png" alt="Diabetes_By_Age_BMI" width="650"/>
+<img src="03_images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_BMI" width="650"/>
 
-** Insight:** Diabetes risk increases with age, with higher prevalence observed in older populations.
+**Key Insight:** Diabetes risk increases with age, with higher prevalence observed in older populations.
 
 * Diabetes prevalence increases progressively across **BMI categories**, demonstrating a clear dose-response relationship between body mass and metabolic disease risk.
 
@@ -77,7 +77,8 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 ### Blood Pressure
 
-**Insight:** Blood pressure shows a weaker and less consistent relationship with diabetes risk.
+<img src="03_images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="650"/> 
+**Key Insight:** Blood pressure shows a weaker and less consistent relationship with diabetes risk.
 
 * When glucose level, blood pressure, and age are evaluated together, diabetes prevalence rises dramatically—demonstrating that multi-factor interaction, rather than any single biomarker, drives the most clinically significant risk.
 
@@ -86,7 +87,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 * These findings reinforce the need for integrated risk-screening frameworks that evaluate combinations of metabolic indicators, enabling earlier identification of high-risk patients, more targeted preventive intervention, and improved allocation of clinical resources within population-health programs.
 
 Highest diabetes prevalence occurs in older adults with diabetic glucose and Stage-1 hypertension.  
-<img src="03_images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="650"/> 
+
 
 ## Recommendations
 
