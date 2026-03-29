@@ -77,7 +77,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 ### Blood Pressure
 
-<img src="03_images/diabetes_bp-age-glucose.png" alt="Diabetes_By_Age_Glucose" width="650"/> 
+<img src="03_images/diabetes_by_BP-glucose.png" alt="Diabetes_By_Age_Glucose" width="650"/> 
 **Key Insight:** Blood pressure shows a weaker and less consistent relationship with diabetes risk.
 
 * When glucose level, blood pressure, and age are evaluated together, diabetes prevalence rises dramatically—demonstrating that multi-factor interaction, rather than any single biomarker, drives the most clinically significant risk.
