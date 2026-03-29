@@ -62,7 +62,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 ### Age Trends
 
-<img src="03_images/diabetes_bmi_age.png" alt="Diabetes_By_Age_BMI" width="650"/>
+<img src="03_images/diabetes_bp-age-glucose.png.png" alt="Diabetes_By_Age_BMI" width="650"/>
 
 ** Insight:** Diabetes risk increases with age, with higher prevalence observed in older populations.
 
