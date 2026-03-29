@@ -30,6 +30,8 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 ### Glucose Impact
 
+<img src="03_images/glucose-age.png" alt="Diabetes_By_Age_Glucose" width="650"/>
+
 ** Insight:** Glucose levels are the strongest predictor of diabetes risk, with significantly higher values observed in positive cases.
 
 * Diabetes prevalence rises sharply once glucose levels enter the **diabetic range (≥126 mg/dL)**, making glucose the **strongest standalone predictor** of diagnosis across all age groups.
@@ -40,7 +42,7 @@ These insights highlight opportunities for earlier identification of high-risk i
 
 * These findings reinforce glucose testing as the **most critical early screening signal**, while also highlighting the need for **age-adjusted preventive monitoring** in older populations.
 
-<img src="03_images/glucose-age.png" alt="Diabetes_By_Age_Glucose" width="650"/>
+
 
 ### BMI & Obesity
 
